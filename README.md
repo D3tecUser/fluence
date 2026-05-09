@@ -1,5 +1,5 @@
 
-  # Healthcare SaaS Design System
+  # Healthcare Design System
 
   This is a code bundle for Healthcare SaaS Design System. The original project is available at https://www.figma.com/design/74PecydtYfTVR8BTtzu7IP/Healthcare-SaaS-Design-System.
 
